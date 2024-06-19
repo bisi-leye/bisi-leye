@@ -1,6 +1,6 @@
 # Olabisi Olaleye
 
-I am a Data Analyst, currently immersed in amplifying my practical experience in data science and data analysis. Dedicated to mastering Python for proficient data analysis and visualization, and actively exploring powerful libraries such as Pandas and NumPy to manipulate and analyze data effectively. I have taken strides in mastering various tools essential for robust data analysis, which include Excel, Power BI, and SQL. With a foundation in IT operations, I am excited to combine my technical skills with the ability to extract insights from complex datasets, driving data-driven strategies, and contributing to organizational growth.
+I am a Data Analyst seeking to leverage my analytical skills and Power BI expertise to contribute to data-driven decision making. Proficient in Power BI, SQL, and Python for data manipulation, analysis, and visualisation. Seeking opportunities for career progression and excited to contribute to dynamic teams in the data analytics field. With a foundation in IT operations, I am excited to combine my technical skills with my ability to extract insights from complex datasets in driving data-driven strategies, and contributing to organizational growth.
 ## Skills
 * PowerBI
 * SQL
