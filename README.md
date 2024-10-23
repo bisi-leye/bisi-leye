@@ -1,6 +1,6 @@
 # Olabisi Olaleye
 
-I am a Data Analyst seeking to leverage my analytical skills and Power BI expertise to contribute to data-driven decision making. Proficient in Power BI, SQL, and Python for data manipulation, analysis, and visualisation. With a foundation in IT operations, I am excited to combine my technical skills with my ability to extract insights from complex datasets in driving data-driven strategies, and contributing to organizational growth.
+I am a Data Analyst seeking to leverage my analytical skills and Power BI expertise to contribute to data-driven decision making. Proficient in Power BI, SQL, and Python for data manipulation, analysis, and visualisation. With a foundation in IT operations, I am excited to combine my technical skills with my ability to extract insights from complex datasets in driving data-driven strategies, and contributing to organisational growth.
 ## Skills
 * PowerBI
 * SQL
